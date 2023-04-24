@@ -1,3 +1,9 @@
+/* Navbar color #1d4ed8
+for the background linear gradient starting
+at #1d4ed8 to #76808f. Nav text #334155.Student login button #22c55e. Teacher login button #aaaaaa. Form text and lines #d3d3d3. Student/Teacher login text #707070. Sign up text #4d5df1. Font used is Arial. */
+
+
+
 
 /* Styling for navigation bar */
 .navbar {
@@ -20,6 +26,7 @@
   color: black;
 }
 
+/* Body background color */
 body{
   background-color: yellow;
   color: #666666;
